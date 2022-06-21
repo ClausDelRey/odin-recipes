@@ -1,0 +1,17 @@
+* {
+    background-color: #ffdb78;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: Trebuchet, Tahoma;
+    background-color: #ffefc5;
+}
+
+ul, a, li{
+    font-size: 25px;
+    font-family: Helvetica, Verdana;
+    background-color: #ffefc5;
+    color: #473300;
+}
