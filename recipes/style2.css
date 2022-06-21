@@ -1,0 +1,38 @@
+body.lasagna {
+    background-color: #78b387;
+}
+body.chicken {
+    background-color: #ff759a;
+}
+body.porridge {
+    background-color: #6dabf7;
+}
+.light-blue {
+    background-color: #cee3fc;
+}
+.light-green {
+    background-color: #daeae5;
+}
+.light-pink {
+    background-color: #ffdce5;
+}
+img {
+    height: auto;
+    width: 250px;
+    align-self: center;
+}
+h1, h2, h3, h4 {
+    text-align: center;
+    font-family: Trebuchet, Tahoma;
+}
+h2,h3,h4 {
+    text-align: left;
+}
+
+ul, ol {
+    font-family: Helvetica, Verdana;
+}
+.description {
+    font-family: Brush Script MT;
+    font-size: 30px;
+}
